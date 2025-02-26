@@ -2,6 +2,7 @@
 
 # Reporte 1
 Titutlo: Error de referencia a archivo CSS incorrecto en el HTML
+
 Descripción del problema:El archivo HTML hace referencia a un archivo CSS con un nombre incorrecto, lo que impide que los estilos definidos sean aplicados correctamente. Como resultado, la apariencia de la página no coincide con el diseño esperado y los estilos no se cargan correctamente.
 
 # Reporte 2
